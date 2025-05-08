@@ -1,6 +1,7 @@
 # HTML
 html
 pug
+ejs
 
 # Glimmer
 gjs
